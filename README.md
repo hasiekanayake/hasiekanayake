@@ -23,16 +23,15 @@ const developer = {
   name: "Your Name",
   location: "Your City, Your Country",
   email: "your.email@example.com",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Go"],
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
   askMeAbout: ["Web Development", "System Design", "Cloud Architecture", "AI/ML", "DevOps"],
   technologies: {
-    frontend: ["React.js", "Next.js", "Vue.js", "Angular", "Svelte"],
-    backend: ["Node.js", "Express.js", "NestJS", "Django", "FastAPI", "Spring Boot"],
-    styling: ["Tailwind CSS", "Styled Components", "SCSS", "Material-UI", "Chakra UI"],
-    mobile: ["React Native", "Flutter", "Swift", "Kotlin"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Supabase"],
-    cloud: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes"],
-    tools: ["Git", "Docker", "Jenkins", "Terraform", "Figma"]
+    frontend: [ "HTML", "CSS","React.js", "Next.js", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "NestJS", "Laravel"],
+    styling: ["Tailwind CSS", "Styled Components"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    cloud: ["AWS", "Google Cloud", "Azure", "Docker"],
+    tools: ["Git", "Docker",  "Figma"]
   },
   architecture: [
     "Microservices",
